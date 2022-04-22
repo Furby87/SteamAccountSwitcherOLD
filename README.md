@@ -1,11 +1,6 @@
 # Steam Account Switcher
 An easy interface for quickly switching between multiple Steam accounts.
 
-## Download
-
-[Latest release](https://danielchalmers.github.io/SteamAccountSwitcher/publish/setup.exe) (Installer)    
-[Latest release](https://github.com/danielchalmers/SteamAccountSwitcher/releases/latest) (Portable)
-
 ## Screenshots
 
 ![](https://i.imgur.com/5eLKAx8.png, "Main window")    
@@ -13,3 +8,56 @@ An easy interface for quickly switching between multiple Steam accounts.
 
 ## License
 [MIT License](LICENSE.md)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Download
+
+[Latest release](https://danielchalmers.github.io/SteamAccountSwitcher/publish/setup.exe) (Installer)    
+[Latest release](https://github.com/danielchalmers/SteamAccountSwitcher/releases/latest) (Portable)
